@@ -28,7 +28,7 @@ br {
 #CERTIFICATION {float: left; width: 70%; height: 250px; line-height: 200%; text-align: left; background-color: #fff; border-top:1px solid #888;}
 #EDUCATION {float: left; ; width: 70%; height: 200px; line-height: 200%; text-align: left; background-color: #fff; border-top:1px solid #888;}
 
-#footer {float: left; padding: 10px; width : 100%; height: 200px; text-align: left; background-color: #fff; border-top:2px solid #888;}
+#footer {float: left; padding: 10px; width : 100%; height: 200px; text-align: left; background-color: #fff; border-top:1.5px solid #888;}
 
 /*body {background: #c8e6c9;}
 #wrap {width: 1000px; height: 900px; margin: 0 auto; color: #fff; font-size: 40px; text-align: center;}
