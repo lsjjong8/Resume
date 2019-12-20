@@ -1,13 +1,45 @@
-<style>
-  body {background: #c8e6c9;}
-  #wrap {width: 1000px; height: 900px; margin: 0 auto; color: #fff; font-size: 40px; text-align: center;}
-  #header {width: 1000px; height: 100px; line-height: 100px; background: #2e7d32;}
-  /*#nav {width: 1000px; height: 100px; line-height: 100px; background: #388e3c; }*/
-  #side1 {float: left; width: 300px; height: 600px; line-height: 600px; background: #43a047;}
-  #side2 {float: left; width: 300px; height: 600px; line-height: 600px; background: #43a067;}
-  #side3 {float: left; width: 300px; height: 600px; line-height: 600px; background: #43a087;}
-  #OBJECTIVE {float: left; width: 700px; height: 600px; line-height: 600px; background: #4caf50;}
-  #SKILL {float: left; width: 700px; height: 600px; line-height: 600px; background: #4caf70;}
-  #EXPERIENCE {float: left; width: 700px; height: 600px; line-height: 600px; background: #4caf90;}
-  #footer {float: left; width: 1000px; height: 100px; line-height: 100px; background: #66bb6a;}
-</style>
+/*@import url(//spoqa.github.io/spoqa-han-sans/css/SpoqaHanSans-kr.css);
+@import url(//spoqa.github.io/spoqa-han-sans/css/SpoqaHanSans-jp.css);*/
+
+/* layout */
+/*#wrap {width : 100%; text-align: center; background-color: #00d2ff}*/
+ul {
+  font-size: 16px; line-height: 20px;
+}
+li {
+  font-size: 16px;
+}
+br {
+  line-height: 200%;
+}
+
+#wrap {width: 800px; height: 100%; margin: 0 auto; text-align: center; }
+#header {width : 100%; height: 300px; font-size: 40px;  background-color: #fff;} /*font-family: 'Spoqa Han Sans';*/
+.big-paragraph {
+  font-size: 21px;
+  margin : 50px;
+}
+#side1 {float: left; width: 30%; height: 300px; line-height: 200%; font-size: 20px; background-color: #43a047; text-align: left;}
+#side2 {float: left; width: 30%; height: 300px; line-height: 200%; font-size: 20px; background-color: #43a067; text-align: left;}
+#side3 {float: left; width: 30%; height: 250px; line-height: 200%; font-size: 20px; background-color: #999; text-align: left;}
+#side4 {float: left; width: 30%; height: 150px; line-height: 200%; font-size: 20px; background-color: #fff; text-align: left; }
+#SKILLS {float: left; width: 70%; height: 300px; line-height: 200%; text-align: left; background: #4caf70; }
+#EXPERIENCE {float: left; width: 70%; height: 300px; line-height: 200%; text-align: left; background: #4caf90;}
+#CERTIFICATION {float: left; width: 70%; height: 250px; line-height: 200%; text-align: left; background: #999;}
+#EDUCATION {float: left; ; width: 70%; height: 150px; line-height: 200%; text-align: left; background: #fff;}
+
+#footer {float: left; padding: 10px; width : 100%; height: 150px; text-align: left; background-color: #fff;}
+
+/*body {background: #c8e6c9;}
+#wrap {width: 1000px; height: 900px; margin: 0 auto; color: #fff; font-size: 40px; text-align: center;}
+#header {width: 1000px; height: 100px; line-height: 100px; background: #2e7d32;}
+/*#nav {width: 1000px; height: 100px; line-height: 100px; background: #388e3c; }
+#side1 {float: left; width: 300px; height: 600px; line-height: 600px; background: #43a047;}
+#side2 {float: left; width: 300px; height: 600px; line-height: 600px; background: #43a067;}
+#side3 {float: left; width: 300px; height: 600px; line-height: 600px; background: #43a087;}
+#side4 {float: left; width: 300px; height: 600px; line-height: 600px; background: #43a099;}
+#OBJECTIVE {float: left; width: 700px; height: 600px; line-height: 600px; background: #4caf50;}
+#SKILLS {float: left; width: 700px; height: 600px; line-height: 600px; background: #4caf70;}
+#EXPERIENCE {float: left; width: 700px; height: 600px; line-height: 600px; background: #4caf90;}
+#EDUCATION {float: left; width: 700px; height: 600px; line-height: 600px; background: #4caf99;}
+#footer {float: left; width: 1000px; height: 100px; line-height: 100px; background: #66bb6a;}*/
